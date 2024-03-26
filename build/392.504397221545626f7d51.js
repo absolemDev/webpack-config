@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkwebpack_config=self.webpackChunkwebpack_config||[]).push([[392],{392:(e,c,n)=>{n.r(c),n.d(c,{default:()=>t});const t=function(){return React.createElement("h1",null,"SHOP")}}}]);
